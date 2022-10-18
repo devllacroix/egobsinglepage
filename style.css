@@ -1,0 +1,41 @@
+.bg-gray{
+    background-color: #d0d8cf;
+}
+
+.banda-1{
+    background-color: #153b0d;
+    color: white;
+}
+
+.titulo{
+    margin-top: 30vh;
+}
+
+h1{
+    font-weight: 700;
+}
+
+h2{
+    font-weight: 700;
+}
+
+.banda-2 h2{
+    color: #153b0d;
+}
+
+.contacto h2{
+    color: #153b0d;
+    font-weight: 700;
+}
+
+.banda-3{
+    background: #153b0d;
+}
+
+.banda-3 h2{
+    color: white;
+}
+
+.contacto #logo{
+    width: 200px;
+}
