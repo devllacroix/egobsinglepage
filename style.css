@@ -2,13 +2,19 @@
     background-color: #d0d8cf;
 }
 
+.portada{
+    background-image: url(/img/fondo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .banda-1{
     background-color: #153b0d;
     color: white;
 }
 
 .titulo{
-    margin-top: 30vh;
+    margin-top: 40vh;
 }
 
 h1{
